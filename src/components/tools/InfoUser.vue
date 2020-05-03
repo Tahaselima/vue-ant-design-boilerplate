@@ -1,7 +1,7 @@
 <template>
   <div class="info-user">
     <router-link :to="{name:'dashboard'}">
-      <a-avatar size="small" icon="user" />
+      <a-avatar icon="user" />
       <transition name="fade">
         <div class="information" v-if="fadeShowInformation">
           <h1>{{ title }}</h1>
