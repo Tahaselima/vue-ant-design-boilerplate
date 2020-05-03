@@ -1,7 +1,7 @@
 # vue-ant-design-boilerplate
 ant design boilerplate
 
-yarn run dev
+yarn run serve
 Runs the app in the development mode.
 Open http://localhost:8000 to view it in the browser.
 
