@@ -22,7 +22,6 @@
     "lodash.pick": "^4.4.0",
     "md5": "^2.2.1",
     "mockjs2": "1.0.8",
-    "moment": "^2.24.0",
     "nprogress": "^0.2.0",
     "viser-vue": "^2.4.6",
     "vue": "^2.6.10",
@@ -62,5 +61,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/ant-design-pro-vue"
+  },
+  "resolutions": {
+    "moment": "2.24.0"
   }
 }
